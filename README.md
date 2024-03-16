@@ -1,2 +1,2 @@
-24-1 AI 오픈소스프로젝트
+﻿# 24_1-AI-OpensourceProject
 
